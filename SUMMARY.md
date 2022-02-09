@@ -5,5 +5,5 @@
 
 ## Features
 
-* [Claims](features/claims.md)
+* [Claims](the-company/vision-and-values.md)
 * [Barrels](features/barrels.md)

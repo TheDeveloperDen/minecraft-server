@@ -1,7 +1,4 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
 description: >-
   The Den has a custom claims plugin that can be used to protect your buildings
   from griefer
@@ -49,7 +46,7 @@ To delete a claim, use the command `/claim <name> delete`
 
 ### Resizing a Claim
 
-To resize a claim, select a new region with the [Claim Tool](claims.md#the-claim-tool) and then use the command `/claim <name> resize`
+To resize a claim, select a new region with the [Claim Tool](vision-and-values.md#the-claim-tool) and then use the command `/claim <name> resize`
 
 ### Renaming a Claim
 
@@ -86,7 +83,7 @@ There are different levels of roles you can give to other players to let them in
 
 There are **4** different roles that you can give:
 
-* `visitor` - Everyone is this role by default. They can only do what's allowed in the [protections](claims.md#claim-protections)
+* `visitor` - Everyone is this role by default. They can only do what's allowed in the [protections](vision-and-values.md#claim-protections)
 * `member` - Players with this role will bypass the claim's protections
 * `trusted` - Players with this role will bypass protections, and can also add and remove members
 * `owner` - **This gives someone ownership of your claim. There can only be 1 owner. Be careful with this!**
@@ -99,7 +96,7 @@ This is an advanced feature which allows you to make smaller claims inside a cla
 
 These are managed with the command `/claim <name> sub` and follow a similar structure to the main commands.
 
-To create a subclaim, we [select a region](claims.md#the-claim-tool) and use `/claim <name> sub <subname> create`. This creates a subclaim named `<subname>` inside the claim `<name>`
+To create a subclaim, we [select a region](vision-and-values.md#the-claim-tool) and use `/claim <name> sub <subname> create`. This creates a subclaim named `<subname>` inside the claim `<name>`
 
 The subclaim can now be managed using very similar commands to a normal claim, except starting with `/claim <name> sub <subname>`.
 
