@@ -1,9 +1,8 @@
 ---
 coverY: 0
+description: This site contains documentation about all the different features on The Den
 ---
 
 # Welcome!
 
-## Welcome aboard!
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+##
