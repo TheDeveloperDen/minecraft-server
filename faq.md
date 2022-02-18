@@ -21,6 +21,10 @@ It's a bit complicated, but it's roughly equal to the sum of all your [mcMMO ski
 * `/reportbug` to report a bug
 * `/report` to report a player
 
+### How do I contact admins?
+
+Use `/helpop <message>`
+
 ### How do I make money?
 
 * Make sure you vote everyday (`/vote`), this usually gives at least $1000
