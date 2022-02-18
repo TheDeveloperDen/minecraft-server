@@ -7,3 +7,6 @@
 
 * [Claims](the-company/vision-and-values.md)
 * [Barrels](features/barrels.md)
+* [The Shop](features/the-shop.md)
+* [Flight Charge](features/flight-charge.md)
+* [mcMMO](features/mcmmo.md)
