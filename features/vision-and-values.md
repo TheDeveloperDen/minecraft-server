@@ -4,7 +4,7 @@ description: >-
   from griefer
 ---
 
-# Claims
+# Copy of Claims
 
 ## The Claim Tool
 

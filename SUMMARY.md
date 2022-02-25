@@ -5,7 +5,8 @@
 
 ## Features
 
-* [Claims](the-company/vision-and-values.md)
+* [Claims](features/claims.md)
+* [Copy of Claims](features/vision-and-values.md)
 * [Barrels](features/barrels.md)
 * [The Shop](features/the-shop.md)
 * [Flight Charge](features/flight-charge.md)
